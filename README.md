@@ -1,3 +1,5 @@
 # friends
 
-## 右上角直接fork我的这个仓库就行，不需要再重新新建个friends仓库
+## 请添加友链在issue
+## 請添加友鏈在issue
+## Please add a friend link to the issue
