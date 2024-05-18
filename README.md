@@ -21,7 +21,8 @@ assignees: ''
     "url": "",
     "avatar": "",
     "screenshot": "",
-    "description": ""
+    "description": "",
+    "version":"" #year-month example：2024-05
 }
 我的友链页： https://
 
