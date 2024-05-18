@@ -28,16 +28,16 @@ assignees: ''
 
 ```
 ----
-"title": "",
-~名称 列子: 叶泯希~
-"url": "",
-~博客地址 例子: https://yeminxi.github.io~
-"avatar": "",
-~头像地址 例子：https://xxxxx.jpg~
-"screenshot": "",
-~封面地址 列子：https://xxxxxx.jpg~
-"description": "",
-~描述 例子：汪汪汪汪~
-"version"："2024-05"
-`年月 例子：2024-05`
+## "title": "",
+### 名称 列子: 叶泯希
+## "url": "",
+### 博客地址 例子: https://yeminxi.github.io~
+## "avatar": "",
+### 头像地址 例子：https://xxxxx.jpg
+## "screenshot": "",
+### 封面地址 列子：https://xxxxxx.jpg
+## "description": "",
+### 描述 例子：汪汪汪汪
+## "version"："2024-05"
+### 年月 例子：2024-05
 ----
