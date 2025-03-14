@@ -1,5 +1,5 @@
 # friends
-
+已迁移至新仓库请访问新仓库 [https://](https://github.com/ymxblog/friends)
 ## 请添加友链在issue
 ## 請添加友鏈在issue
 ## Please add a friend link to the issue
